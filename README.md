@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Juan Arrieta](https://kayiensoft.com.ve)!
 
-I work as a ~~Back-End~~ mobil developer with UI skills. I´m based in Maracaibo, Venezuela.
+I work as a ~~Freelancer~~ mobil developer with UI skills. I´m based in Maracaibo, Venezuela.
 
 Since 2015 discover what you could achieve with developing software like CRM. I have had the opportunity to immerse myself in many different works and projects, helping to make this world a little better through design and code. ✨😍
 
